@@ -6,10 +6,10 @@ Practice setting up and testing a node server.
 ##Technologies Used
 - Node
   Node Modules
-    -Express
-    -Grunt
+    Express
+    Grunt
 - Testing Framework
-  -mocha-chai
+  mocha-chai
   
 
 
