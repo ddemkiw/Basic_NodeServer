@@ -11,7 +11,7 @@ app.get('/', function(request, response){
 });
 
 server.listen(3000, function(){
-  console.log("Server listening on port 99999");
+  console.log("Server listening on port 30000");
 });
 
 module.exports = server;
